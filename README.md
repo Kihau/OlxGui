@@ -13,3 +13,4 @@ $ cd build/
 $ cmake ..
 $ cmake --build . --config Release
 ```
+![olxgui image](res/olxgui.png)
