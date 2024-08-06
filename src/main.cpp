@@ -121,7 +121,7 @@ static void execute_query(GuiTab *data) {
         return;
     }
 
-    std::string query = "olx-get --delay 100";
+    std::string query = "olx-find --delay 100";
 
     if (data->ignore_case) {
         query += " --ignore-case";
