@@ -20,7 +20,7 @@ $ cmake ..
 $ cmake --build . --config Release
 ```
 
-## Dependencies:
+## Dependencies
 - Windows: 
   Only a C++ toolchain, CMake and recursively cloned dependencies should be required to build the project.
 
